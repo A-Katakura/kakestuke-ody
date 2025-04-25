@@ -1,0 +1,133 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  img {
+    align-self: center;
+    display: block;
+    margin: 0 auto;
+  }
+
+  .CSSMarquee {
+    max-width: 750px;
+    height: 75px;
+    padding: 1em 0;
+    margin: 0 auto;
+    position: relative;
+    align-content: center;
+    overflow: hidden;
+    text-align: left;
+    background-color: #29459f;
+    p {
+      margin: 0;
+      padding-left: 100%;
+      font-weight: bold;
+      font-size: 25px;
+      display: inline-block;
+      white-space: nowrap;
+      animation: marqueeRL 10s linear infinite;
+    }
+    .real-time {
+      color: yellow;
+    }
+  }
+
+  .cta-area {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  
+    a {
+      position: absolute;
+      top: 0;
+      z-index: 2;
+    }
+  
+    img:not(.btn-img) {
+      position: relative;
+      z-index: 1;
+    }
+  }
+
+  .footer {
+    max-width: 750px;
+    height: 75px;
+    margin: 0 auto;
+    position: relative;
+    align-content: center;
+    color: fff;
+    background-color: #29459f;
+    &--Copyright {
+      .tokupura {
+        display: flex;
+        justify-content: space-around;
+      }
+    }
+  }
+  
+}
+
+
+@keyframes marqueeRL {
+  from {
+    transform: translate(0);
+  }
+  to {
+    transform: translate(-100%);
+  }
+}
+
+.pc-img {
+  display: block;
+}
+
+.sp-img {
+  display: none;
+}
+
+@media screen and (max-width: 370px) {
+  .pc-img {
+    display: none;
+  }
+
+  .sp-img {
+    display: block;
+  }
+}
+
+
+.footer_fix_btn {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: #29459f;
+  padding: 10px 0;
+  text-align: center;
+
+  .fixed_ttl {
+    margin-bottom: 5px;
+  }
+
+  ul {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+
+    li {
+      display: inline-block;
+
+      img {
+        height: 40px;
+        width: auto;
+      }
+    }
+  }
+}
