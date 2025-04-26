@@ -33,58 +33,58 @@
         <link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/scss-css/top.css">
     </head>
 
-<body monica-id="ofpnmcalabcbjgholdjcjblkibolbppb" monica-version="7.9.1">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript>
-        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6MHFN25"
-            height="0" width="0" style="display:none;visibility:hidden"></iframe>
-    </noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <div class="wrapper">
-        <div class=wrapper--main> 
-            <!--FV-->
-            <div class="CSSMarquee">
-                <p><span class=real-time id="real-time">00:00</span>現在、近くの作業員が<span class=real-time>最短15分</span>でお伺いできます。</p>
-            </div>
-            <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_02.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_03.jpg">
-            <div class="cta-area pc-img"> <a href="tel:0120-734-835"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
-            <div class="cta-area pc-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
-            <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_06.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_07.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_08.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_09.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_9.5.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_10.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_11.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_12.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_13.jpg">
-            <div class="cta-area pc-img"> <a href="tel:0120-734-835"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
-            <div class="cta-area pc-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
-            <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_16.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_17.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_18.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_19.jpg">
-            <div class="cta-area pc-img"> <a href="tel:0120-734-835"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
-            <div class="cta-area pc-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
-            <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_22.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_23.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_24.jpg"> 
-            <!--スマホ--> 
-            <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_02.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_03.jpg">
-            <div class="cta-area sp-img"> <a href="tel:0120-734-835"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
-            <div class="cta-area sp-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
-            <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_06.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_07.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_08.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_09.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_9.5.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_10.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_11.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_12.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_13.jpg">
-            <div class="cta-area sp-img"> <a href="tel:0120-734-835"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
-            <div class="cta-area sp-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
-            <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_16.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_17.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_18.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_19.jpg">
-            <div class="cta-area sp-img"> <a href="tel:0120-734-835"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
-            <div class="cta-area sp-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
-            <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_22.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_23.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_24.jpg">   
-            <!--フッター-->
-            <footer class=footer> 
-                <!--コピーライト-->
-                <div class="footer--Copyright">
-                    <div class="tokupura"> <a class="ata" href="https://kaketsuke99.com/form/lp/privacy-policy/">プライバシーポリシー</a> <a class="ata" href="https://kaketsuke99.com/form/lp/specifiedcommercialtransactionlaw/">特定商取引法について</a> </div>
-                    <p class="cprp">©Copyright 2022</p>
+    <body monica-id="ofpnmcalabcbjgholdjcjblkibolbppb" monica-version="7.9.1">
+        <!-- Google Tag Manager (noscript) -->
+        <noscript>
+            <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6MHFN25"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+        </noscript>
+        <!-- End Google Tag Manager (noscript) -->
+        <div class="wrapper">
+            <div class=wrapper--main> 
+                <!--FV-->
+                <div class="CSSMarquee">
+                    <p><span class=real-time id="real-time">00:00</span>現在、近くの作業員が<span class=real-time>最短15分</span>でお伺いできます。</p>
                 </div>
-            </footer>
-            <div class="footer--fix-btn">
-                <div class="fixed-ttl"><img src="<?php echo get_template_directory_uri(); ?>/img/fixed_copy.png" alt="↓web限定キャンペーン実施中↓"></div>   
-                <ul>
-                    <li class="nickname-button"> <a href="https://page.line.me/935vuwbe"><img src="<?php echo get_template_directory_uri(); ?>/img/fixed_linebtn.png"></a> </li>
-                    <li class="mypage-button"> <a href="tel:0120-734-835"><img src="<?php echo get_template_directory_uri(); ?>/img/fixed_tellbtn.png"></a> </li>   
-                </ul>
+                <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_02.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_03.jpg">
+                <div class="cta-area pc-img"> <a href="tel:0120-734-835"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
+                <div class="cta-area pc-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
+                <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_06.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_07.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_08.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_09.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_9.5.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_10.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_11.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_12.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_13.jpg">
+                <div class="cta-area pc-img"> <a href="tel:0120-734-835"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
+                <div class="cta-area pc-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
+                <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_16.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_17.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_18.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_19.jpg">
+                <div class="cta-area pc-img"> <a href="tel:0120-734-835"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
+                <div class="cta-area pc-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
+                <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_22.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_23.jpg"> <img class="pc-img" src="<?php echo get_template_directory_uri(); ?>/img/car_24.jpg"> 
+                <!--スマホ--> 
+                <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_02.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_03.jpg">
+                <div class="cta-area sp-img"> <a href="tel:0120-734-835"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
+                <div class="cta-area sp-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
+                <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_06.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_07.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_08.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_09.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_9.5.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_10.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_11.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_12.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_13.jpg">
+                <div class="cta-area sp-img"> <a href="tel:0120-734-835"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
+                <div class="cta-area sp-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
+                <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_16.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_17.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_18.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_19.jpg">
+                <div class="cta-area sp-img"> <a href="tel:0120-734-835"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/tellbtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_04.jpg"> </div>
+                <div class="cta-area sp-img"> <a href="https://page.line.me/935vuwbe"> <img class="btn-img sp-img" src="<?php echo get_template_directory_uri(); ?>/img/linebtn.png"> </a> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_05.jpg"> </div>
+                <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_22.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_23.jpg"> <img class="sp-img" src="<?php echo get_template_directory_uri(); ?>/img/car_24.jpg">   
+                <!--フッター-->
+                <footer class=footer> 
+                    <!--コピーライト-->
+                    <div class="footer--Copyright">
+                        <div class="tokupura"> <a class="ata" href="https://kaketsuke99.com/form/lp/privacy-policy/">プライバシーポリシー</a> <a class="ata" href="https://kaketsuke99.com/form/lp/specifiedcommercialtransactionlaw/">特定商取引法について</a> </div>
+                        <p class="cprp">©Copyright 2022</p>
+                    </div>
+                </footer>
+                <div class="footer--fix-btn">
+                    <div class="fixed-ttl"><img src="<?php echo get_template_directory_uri(); ?>/img/fixed_copy.png" alt="↓web限定キャンペーン実施中↓"></div>   
+                    <ul>
+                        <li class="nickname-button"> <a href="https://page.line.me/935vuwbe"><img src="<?php echo get_template_directory_uri(); ?>/img/fixed_linebtn.png"></a> </li>
+                        <li class="mypage-button"> <a href="tel:0120-734-835"><img src="<?php echo get_template_directory_uri(); ?>/img/fixed_tellbtn.png"></a> </li>   
+                    </ul>
+                </div>
             </div>
         </div>
-    </div>
-    <script src="<?php echo get_template_directory_uri(); ?>/JS/script.js"></script>
-    <div id="monica-content-root" class="monica-widget" style="pointer-events: auto;"></div>
+        <script src="<?php echo get_template_directory_uri(); ?>/JS/script.js"></script>
+        <div id="monica-content-root" class="monica-widget" style="pointer-events: auto;"></div>
     </body>
 </html>
